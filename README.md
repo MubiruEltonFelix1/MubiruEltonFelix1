@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech Stack  
 **Languages:**  
- · `Python` · `JavaScript` · `Solidity` · `HTML` · `CSS`  
+ · `Python` · `JavaScript` · `Solidity` · `HTML` · `CSS`  `C`
 
 **Frameworks & Tools:**  
 `React` · `Node.js` · `Express` · `MongoDB` · `MySQL` · `Git` · `VS Code` · 
@@ -40,9 +40,8 @@
 
 ### 🔥 Featured Projects  
 - 🧩 **Campus Food Marketplace** Full-Stack Food Ordering Application 
-- 🤖 **AI Assistant:** Context-aware chatbot using NLP  
-
-*(Pin your best projects on your GitHub profile to make these clickable!)*  
+- 🤖 **C Space Explorer** 10 by 10 Space Grid Player Game 
+ 
 
 ---
 
