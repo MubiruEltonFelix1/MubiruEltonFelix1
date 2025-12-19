@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋 Hey there, I'm Elton!</h1>
-<h3 align="center">🚀 Intelligent Full-Stack Developer | AI & Blockchain Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Intelligent Full-Stack Developer | AI & Machine Learning Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MubiruEltonFelix1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
