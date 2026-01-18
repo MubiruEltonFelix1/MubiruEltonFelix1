@@ -16,11 +16,7 @@
 
 I'm a **Software Engineering student** and **AI/ML enthusiast** passionate about building **intelligent, data-driven systems** that solve real-world problems. My work bridges the gap between **mathematical foundations of machine learning** and **practical software engineering**. 
 
-- 🔬 Deep dive into **ML algorithms, statistical models**, and their mathematical underpinnings
-- 🏗️ Experienced in **backend architecture** and **system design** for scalable applications
-- 🎨 Skilled in **frontend development** to create intuitive user experiences
-- 📊 Love transforming raw data into **actionable insights** through analytics and visualization
-- 🚀 Committed to writing **clean, efficient, and maintainable code**
+**I study uncertainty, data behavior, and model failure**
 
 ---
 
