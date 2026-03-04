@@ -93,7 +93,7 @@ I'm always open to **collaborating on interesting projects**, discussing **ML/AI
 
 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/elton-mubiru)
 
-🌐 **Portfolio:**mubirueltonfelix.com
+🌐 **Portfolio:** (https://mubirueltonfelix.com)
 
 </div>
 
