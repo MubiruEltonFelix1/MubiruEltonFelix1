@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Elton
 
-### Data-Driven Software Engineer | Machine Learning Enthusiast | Systems Thinker
+### Data-Driven Software Engineer | Master Of Uncertainty | Systems Thinker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mubiru-elton-felix-9ab50a1b0/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mubirueltonfelix@gmail.com)
