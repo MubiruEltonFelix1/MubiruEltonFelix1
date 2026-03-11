@@ -1,9 +1,9 @@
 <div align="center">
   
-# 👋 Hi, I'm Elton
+# Hi, I'm Elton
 
 ### Data-Driven Software Engineer | Master Of Uncertainty | Systems Thinker
-
+[![My Portfolio Site](https://mubirueltonfelix.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mubiru-elton-felix-9ab50a1b0/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mubirueltonfelix@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/MubiruEltonFelix1)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a **Software Engineering student** and **AI/ML enthusiast** passionate about building **intelligent, data-driven systems** that solve real-world problems. My work bridges the gap between **mathematical foundations of machine learning** and **practical software engineering**. 
 
@@ -20,14 +20,11 @@ I'm a **Software Engineering student** and **AI/ML enthusiast** passionate about
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Frameworks & Libraries**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -48,7 +45,7 @@ I'm a **Software Engineering student** and **AI/ML enthusiast** passionate about
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 [EltonData](https://github.com/MubiruEltonFelix1/EltonData)
 > **Comprehensive Data Analytics Platform**
@@ -56,17 +53,17 @@ I'm a **Software Engineering student** and **AI/ML enthusiast** passionate about
 A full-stack web application for **data upload, exploratory data analysis (EDA), and interactive analytics dashboards**. 
 
 **Key Features:**
-- 📤 **Multi-format data upload** (CSV, Excel, JSON)
-- 🔍 **Automated EDA** with statistical summaries and visualizations
-- 📊 **Interactive dashboards** for real-time data insights
-- 🧠 **ML-ready preprocessing** pipelines
-- 🎯 **User-friendly interface** built with modern web technologies
+- **Multi-format data upload** (CSV, Excel, JSON)
+- **Automated EDA** with statistical summaries and visualizations
+- **Interactive dashboards** for real-time data insights
+- **ML-ready preprocessing** pipelines
+- **User-friendly interface** built with modern web technologies
 
 **Tech Stack:** `Python` `Flask` `React` `Pandas` `Plotly` `SQLite`
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -83,17 +80,17 @@ A full-stack web application for **data upload, exploratory data analysis (EDA),
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to **collaborating on interesting projects**, discussing **ML/AI innovations**, or sharing ideas about **software engineering best practices**. 
 
 <div align="center">
 
-📧 **Email:** [mubirueltonfelix@gmail.com](mailto:mubirueltonfelix@gmail.com)
+**Email:** [mubirueltonfelix@gmail.com](mailto:mubirueltonfelix@gmail.com)
 
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/elton-mubiru)
+**LinkedIn:** [Connect with me](https://linkedin.com/in/elton-mubiru)
 
-🌐 **Portfolio:** [Click Here To travel to Elton's World](https://mubirueltonfelix.com)
+**Portfolio:** [Click Here To travel to Elton's World](https://mubirueltonfelix.com)
 
 </div>
 
@@ -109,6 +106,6 @@ I'm always open to **collaborating on interesting projects**, discussing **ML/AI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MubiruEltonFelix1&color=blue&style=for-the-badge)
 
-⭐️ From [MubiruEltonFelix1](https://github.com/MubiruEltonFelix1)
+ From [MubiruEltonFelix1](https://github.com/MubiruEltonFelix1)
 
 </div>
