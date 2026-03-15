@@ -44,21 +44,49 @@ I'm a **Software Engineering student** and **AI/ML enthusiast** passionate about
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-##  Featured Projects
+## Featured Projects
 
-### 🔹 [EltonData](https://github.com/MubiruEltonFelix1/EltonData)
-> **Comprehensive Data Analytics Platform**
+### 🔹 AstraLog
 
-A full-stack web application for **data upload, exploratory data analysis (EDA), and interactive analytics dashboards**. 
+**Smart System Event Logging & Experimentation Engine**
 
-**Key Features:**
-- **Multi-format data upload** (CSV, Excel, JSON)
-- **Automated EDA** with statistical summaries and visualizations
-- **Interactive dashboards** for real-time data insights
-- **ML-ready preprocessing** pipelines
-- **User-friendly interface** built with modern web technologies
+AstraLog is an intelligent logging engine designed to capture, analyze, and experiment with system events. It enables developers and researchers to observe how systems behave over time and perform controlled experiments on event-driven processes.
 
-**Tech Stack:** `Python` `Flask` `React` `Pandas` `Plotly` `SQLite`
+**Key Features**
+
+* Smart logging of system and application events
+* Structured event tracking for debugging and behavioral analysis
+* Experimentation framework for testing event-driven scenarios
+* Timestamped event streams for system diagnostics
+* Modular architecture for extending event processing and analysis
+
+**Use Cases**
+
+* System monitoring and diagnostics
+* Event-driven experiment simulations
+* Debugging complex application workflows
+* Observing system behavior under different conditions
+
+**Tech Stack:** Python, SQLite, Event Processing Architecture
+
+---
+
+### 🔹 Walter Bishop Calculus Lab
+
+**Experimental Computational Calculus Laboratory**
+
+Inspired by the experimental mindset of Walter Bishop, this project treats mathematical concepts like scientific experiments. Functions are analyzed through computational methods, visualizations, and animated graphs to better understand calculus behavior.
+
+**Key Features**
+
+* Structured calculus experiments organized like a research lab
+* Symbolic differentiation and mathematical analysis
+* Function behavior studies (rate of change, critical points)
+* Animated graphs that visualize mathematical behavior
+* Expandable experiment framework for advanced calculus studies
+
+**Tech Stack:** Python, NumPy, Matplotlib, SymPy
+
 
 ---
 
