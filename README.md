@@ -127,7 +127,7 @@ I'm always open to **collaborating on interesting projects**, discussing **ML/AI
 
 ### 💭 Philosophy
 
-*"Building intelligent systems starts with understanding the fundamentals. Every algorithm, every line of code, every data point tells a story—my job is to listen and transform that story into solutions."*
+*"Building intelligent systems starts with understanding the fundamentals. Every algorithm, every line of code, every data point tells a story and my job is to listen and transform that story into solutions."*
 
 ---
 
