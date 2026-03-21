@@ -53,19 +53,18 @@ I'm a **Software Engineering student** and **AI/ML enthusiast** passionate about
 AstraLog is an intelligent logging engine designed to capture, analyze, and experiment with system events. It enables developers and researchers to observe how systems behave over time and perform controlled experiments on event-driven processes.
 
 **Key Features**
-
-* Smart logging of system and application events
-* Structured event tracking for debugging and behavioral analysis
-* Experimentation framework for testing event-driven scenarios
-* Timestamped event streams for system diagnostics
-* Modular architecture for extending event processing and analysis
+Smart logging of system and application events
+Structured event tracking for debugging and behavioral analysis
+Experimentation framework for testing event-driven scenarios
+Timestamped event streams for system diagnostics
+Modular architecture for extending event processing and analysis
 
 **Use Cases**
 
-* System monitoring and diagnostics
-* Event-driven experiment simulations
-* Debugging complex application workflows
-* Observing system behavior under different conditions
+System monitoring and diagnostics
+Event-driven experiment simulations
+Debugging complex application workflows
+Observing system behavior under different conditions
 
 **Tech Stack:** Python, SQLite, Event Processing Architecture
 
