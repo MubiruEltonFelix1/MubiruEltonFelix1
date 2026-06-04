@@ -46,45 +46,26 @@ I'm a **Software Engineering student** and **AI/ML enthusiast** passionate about
 
 ## Featured Projects
 
-### 🔹 AstraLog
+### 🔹 The Residual Stream
+**Building transformers from first principles, one residual update at a time.**
 
-**Smart System Event Logging & Experimentation Engine**
+I’m building machine learning systems from first principles in JAX, starting with the math and working outward into tokenizers, transformers, training loops, and scaling-law experiments. This repo is my public build log for learning how the pieces actually work, not just how they’re described.
 
-AstraLog is an intelligent logging engine designed to capture, analyze, and experiment with system events. It enables developers and researchers to observe how systems behave over time and perform controlled experiments on event-driven processes.
+Alongside the code, I’m reading the original papers, writing structured notes, and turning each week’s progress into a visible checkpoint. The goal is to close the gap between understanding and implementation by rebuilding the core ideas of modern ML in a way that stays transparent, testable, and honest.
 
 **Key Features**
-* Smart logging of system and application events *
-* Structured event tracking for debugging and behavioral analysis *
-* Experimentation framework for testing event-driven scenarios *
-* Timestamped event streams for system diagnostics *
-* Modular architecture for extending event processing and analysis *
+* Built from first principles in JAX 
+* Transformer, tokenizer, and training loop implementations from scratch
+* Paper notes paired with source research PDFs
+* Weekly build logs and progress checkpoints
+* Foundations in linear algebra, calculus, and probability
+* Original experiments and ablations
+* Public, honest learning process with implementation-focused documentation
 
-**Use Cases**
-
-* System monitoring and diagnostics *
-* Event-driven experiment simulations *
-* Debugging complex application workflows *
-* Observing system behavior under different conditions *
-
-**Tech Stack:** Python, SQLite, Event Processing Architecture
+**Tech Stack:** Python 3.11, JAX, NumPy, Jupyter Notebooks, Markdown for documentation, Git/GitHub for versioned progress tracking
 
 ---
 
-### 🔹 Walter Bishop Calculus Lab
-
-**Experimental Computational Calculus Laboratory**
-
-Inspired by the experimental mindset of Walter Bishop, this project treats mathematical concepts like scientific experiments. Functions are analyzed through computational methods, visualizations, and animated graphs to better understand calculus behavior.
-
-**Key Features**
-
-* Structured calculus experiments organized like a research lab
-* Symbolic differentiation and mathematical analysis
-* Function behavior studies (rate of change, critical points)
-* Animated graphs that visualize mathematical behavior
-* Expandable experiment framework for advanced calculus studies
-
-**Tech Stack:** Python, NumPy, Matplotlib, SymPy
 
 
 ---
