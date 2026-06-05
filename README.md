@@ -46,7 +46,7 @@ I'm a **Software Engineering student** and **AI/ML enthusiast** passionate about
 
 ## Featured Projects
 
-### 🔹 The Residual Stream
+### 🔹 [The Residual Stream](https://github.com/MubiruEltonFelix1/the-residual-stream)
 **Building transformers from first principles, one residual update at a time.**
 
 I’m building machine learning systems from first principles in JAX, starting with the math and working outward into tokenizers, transformers, training loops, and scaling-law experiments. This repo is my public build log for learning how the pieces actually work, not just how they’re described.
