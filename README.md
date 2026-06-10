@@ -18,13 +18,15 @@
 
 I'm a Software Engineering student who got tired of using things I couldn't explain.
 
-So I stopped. I went back to the math. Now I'm rebuilding modern deep learning from scratch, not wrapping libraries, not following tutorials but actually rebuilding it, one residual update at a time.
+So I stopped. I went back to the math. Now I'm rebuilding modern deep learning from scratch not wrapping libraries, not following tutorials, actually rebuilding it, one residual update at a time.
 
-The long game is a frontier AI lab. But somewhere along the way I got pulled into something else: **computational biology**. The idea that the same mathematical frameworks we use to model language might help us model how living systems compute, adapt, and fail, that intersection feels like where I want to spend the next decade. So now I'm chasing two things in parallel: a mechanical understanding of how transformers actually work under the hood, and enough biology to eventually sit at that boundary seriously.
+The long game is a frontier AI lab. But somewhere along the way I got pulled into something else: **computational biology**. The idea that the same mathematical frameworks we use to model language might help us model how living systems compute, adapt, and fail...... That intersection feels like where I want to spend the next decade. So now I'm chasing two things in parallel: a mechanical understanding of how transformers actually work under the hood, and enough biology to eventually sit at that boundary seriously.
 
 I'm not moving fast. I'm moving carefully.
 
-> Currently: reading papers, breaking things in JAX, and learning to ask better questions.
+And while I work towards that, I'm investing in the people around me. I believe the next generation of AI researchers won't all come from the places they've historically come from. Part of my job, right now as a student, is to make sure that's true.
+
+> Currently: reading papers, breaking things in JAX, mentoring peers, and learning to ask better questions.
 
 ---
 
@@ -58,22 +60,35 @@ The goal isn't a clean repo that impresses people at a glance. It's the kind of 
 
 `Python 3.11` · `JAX` · `NumPy` · `Jupyter` · `Git`
 
----
+## Community & Leadership
 
-## Right Now
+I care about who gets to be in the room. Not just who's already there.
+
+A lot of students — especially here in Uganda and across Africa — have the raw ability to contribute to frontier AI but lack the environment that makes that possible: structured learning, peer accountability, access to the right resources, and someone who's a few steps ahead willing to turn around. I'm trying to be that person, even while I'm still figuring things out myself.
+
+What that looks like in practice:
+
+- **Peer teaching** — breaking down ML concepts (backprop, attention, optimization) for fellow students through study sessions and written explainers
+- **Building in public** — The Residual Stream isn't just a learning project; it's a reference others can follow, fork, and build on
+- **Open source mindset** — every repo I ship is documented for the person who comes after me, not just for me
+- **Community organising** — working toward creating structured AI/ML learning spaces for students who don't have access to formal ML coursework
+
+
+---
 
 ```python
 elton = {
-    "reading":   [
+    "reading":    [
         "Attention Is All You Need",
         "Scaling Laws for Neural Language Models",
         "The Annotated Transformer"
     ],
-    "building":  "Transformer from scratch — The Residual Stream",
-    "exploring": "Computational biology × ML: where sequences meet biology",
-    "learning":  ["Backprop mechanics", "Tokenization", "Training dynamics"],
-    "aim":       "Frontier AI lab — Anthropic, DeepMind, OpenAI or equivalent",
-    "open_to":   ["Collaborations", "Research discussions", "Open source", "Mentorship"]
+    "building":   "Transformer from scratch — The Residual Stream",
+    "exploring":  "Computational biology × ML: where sequences meet biology",
+    "learning":   ["Backprop mechanics", "Tokenization", "Training dynamics"],
+    "community":  "Peer teaching, building in public, making ML accessible in Uganda & Africa",
+    "aim":        "Frontier AI lab — Anthropic, DeepMind, OpenAI or equivalent",
+    "open_to":    ["Collaborations", "Research discussions", "Open source", "Mentorship", "Study groups"]
 }
 ```
 
@@ -104,7 +119,7 @@ elton = {
 
 ## Let's Connect
 
-If you're working on something hard and interesting — deep learning research, AI systems, computational biology, open source — reach out. Always up for a good conversation.
+If you're working on something hard and interesting (deep learning research, AI systems, computational biology, open source) — reach out. Always up for a good conversation.
 
 <div align="center">
 
