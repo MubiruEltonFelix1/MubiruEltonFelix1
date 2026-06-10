@@ -18,9 +18,9 @@
 
 I'm a Software Engineering student who got tired of using things I couldn't explain.
 
-So I stopped. I went back to the math. Now I'm rebuilding modern deep learning from scratch — not wrapping libraries, not following tutorials — actually rebuilding it, one residual update at a time.
+So I stopped. I went back to the math. Now I'm rebuilding modern deep learning from scratch, not wrapping libraries, not following tutorials but actually rebuilding it, one residual update at a time.
 
-The long game is a frontier AI lab. But somewhere along the way I got pulled into something else: **computational biology**. The idea that the same mathematical frameworks we use to model language might help us model how living systems compute, adapt, and fail — that intersection feels like where I want to spend the next decade. So now I'm chasing two things in parallel: a mechanical understanding of how transformers actually work under the hood, and enough biology to eventually sit at that boundary seriously.
+The long game is a frontier AI lab. But somewhere along the way I got pulled into something else: **computational biology**. The idea that the same mathematical frameworks we use to model language might help us model how living systems compute, adapt, and fail, that intersection feels like where I want to spend the next decade. So now I'm chasing two things in parallel: a mechanical understanding of how transformers actually work under the hood, and enough biology to eventually sit at that boundary seriously.
 
 I'm not moving fast. I'm moving carefully.
 
