@@ -7,7 +7,7 @@
 ![Community Lead](https://img.shields.io/badge/Community_Lead-MUCOSA-6E56CF?style=for-the-badge&labelColor=0d0d14)
 ![Class President](https://img.shields.io/badge/Class_President-SE_Cohort-2FBF8F?style=for-the-badge&labelColor=0d0d14)
 ![Campus Ambassador](https://img.shields.io/badge/Campus_Ambassador-AWS_Student_Builders-FF8A5C?style=for-the-badge&labelColor=0d0d14)
-![Co-Organiser](https://img.shields.io/badge/Technical_Mentor-Global_AI_Mbarara-6E56CF?style=for-the-badge&labelColor=0d0d14)
+![Co-Organiser](https://img.shields.io/badge/Co_Organiser-Global_AI_Mbarara-6E56CF?style=for-the-badge&labelColor=0d0d14)
 
 <br/>
 
